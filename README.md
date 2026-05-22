@@ -168,3 +168,4 @@ real-time interaction,
 speech workflow integration,
 frontend experience,
 and system architecture.
+Refer Model Presentation file to get knowledge.
